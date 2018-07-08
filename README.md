@@ -1,2 +1,0 @@
-# fractal
-draw IFS-fractals  
