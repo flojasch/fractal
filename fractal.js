@@ -30,7 +30,7 @@ function preload(){
 
 function setup()
 {	
-  canvas = createCanvas(800, 800);
+  canvas = createCanvas(500, 500);
   canvas.position(200, 50);
   pixelDensity(1);
   
