@@ -68,7 +68,8 @@ function setup()
   selfrac.option('Sierpinski'); 
   selfrac.option('Spirale');
   selfrac.option('Kochkurve');
-  selfrac.option('Blatt');  
+  selfrac.option('Blatt');
+  selfrac.option('Baum');  
   selfrac.changed(mySelectEvent);
   loadValues(lines);
 	 colornorm=0;
